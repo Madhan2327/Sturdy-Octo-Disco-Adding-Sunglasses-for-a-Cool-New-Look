@@ -1,5 +1,5 @@
-## Name : AJAYRAJA RATHINAM T
-## Reg NO : 212224240006
+## Name : Madhan C
+## Reg NO : 212224240081
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
@@ -27,8 +27,7 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 - Practicing computer vision workflows.
 
 ## Program and Output:
-## Name :AJAYRAJA RATHINAM T
-## Reg no :212224240006
+
 
 ```python
 import cv2
@@ -95,10 +94,9 @@ plt.show()
 
 ```
 ## OUTPUT
-<img width="486" height="538" alt="image" src="https://github.com/user-attachments/assets/c1b0d001-1b81-4430-a2f5-3a320265e59c" />
-<img width="579" height="543" alt="image" src="https://github.com/user-attachments/assets/a0d1ffcc-5703-411b-b1db-59d7b68e6086" />
-<img width="785" height="756" alt="image" src="https://github.com/user-attachments/assets/88d14263-10b5-4847-ae55-611c91220cf8" />
-<img width="630" height="743" alt="image" src="https://github.com/user-attachments/assets/1e8cacea-10cb-4a97-bb85-0644a14f052f" />
+<img width="375" height="460" alt="image" src="https://github.com/user-attachments/assets/fe9ec684-b00a-45db-ba9c-5d9f59ce07d8" />
+
+<img width="715" height="816" alt="image" src="https://github.com/user-attachments/assets/d719cd4c-4fc1-4751-892f-8d5ba18593a6" />
 
 
 
